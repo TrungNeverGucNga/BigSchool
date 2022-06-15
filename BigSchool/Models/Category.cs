@@ -6,6 +6,7 @@ using System.Web;
 
 namespace BigSchool.Models
 {
+    //aaaa
     public class Category
     {
         public byte Id { get; set; }
